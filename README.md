@@ -2,7 +2,7 @@
   <img src=".\assets/logo.png" alt="triac logo" width="264">
 </p>
 
-<h3 align="center">Lightweight & hybrid socket/web server writen in C</h3>
+<h3 align="center">Lightweight & hybrid socket/web server written in C</h3>
 
 <p align="center">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/aaronlyy/triac">
