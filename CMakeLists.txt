@@ -12,5 +12,5 @@ target_include_directories(triac
         ${PROJECT_SOURCE_DIR}/include
 )
 
-add_executable(socket_echo examples/socket_echo.c)
-target_link_libraries(socket_echo triac)
+add_executable(socket_client examples/socket_client.c)
+target_link_libraries(socket_client triac)
