@@ -11,8 +11,6 @@
 
 ## Goals & Roadmap
 I mainly created this project to learn more about **NETWORKING**, **SOCKETS** and **HTTP** with C.
-But I also want to create something that can actually be used and is helpful to me or other.
-I'll try to add as many comments explaining why I have done what in the code as possible so the code can be used as a learning ressource too.
 
 Here is a list of things i want to implement or already have implemented:
 - Some helpful network utility functions 
