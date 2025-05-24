@@ -10,11 +10,12 @@
 </p>
 
 ## Goals & Roadmap
-I created this project to learn more about **SOCKETS**, **HTTP** and **NETWORKING** with C in general.
-
-Maybe I'll add some functionality to control connected sockets through HTTP using REST and a web interface. I also kinda want to add templating functionality for html files.
+I mainly created this project to learn more about **NETWORKING**, **SOCKETS** and **HTTP** with C.
+But I also want to create something that can actually be used and is helpful to me or other.
+I'll try to add as many comments explaining why I have done what in the code as possible so the code can be used as a learning ressource too.
 
 Here is a list of things i want to implement or already have implemented:
+- Some helpful network utility functions 
 - Basic socket server
 - Basic socket client
 - Non blocking socket server + multiple connections
